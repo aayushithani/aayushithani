@@ -6,7 +6,7 @@
   I'm passionate about designing and building <b>🚀 microservice architectures</b> using <b>☕ Java</b> and <b>🌱 Spring Boot</b>. I thrive on <b>guiding</b> and <b>motivating</b> others to grow both personally and professionally. When I’m not coding, you’ll find me <b>exploring new cultures</b> and <b>traveling the world</b> 🌍, on a mission to visit a <b>new country every year</b> ✈️ — discovering fresh experiences and making memories. Life’s all about balance: <b>learning, leading, and living with passion!</b> 🔥
 </p>
 
-<h3 align="left" style="color:#444;">Connect with me:</h3>
+<h3 align="left" style="color:#444;">🤝 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/aayushithani" target="_blank" rel="noopener" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
