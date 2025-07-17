@@ -6,18 +6,9 @@
   I'm passionate about designing and building <b>🚀 microservice architectures</b> using <b>☕ Java</b> and <b>🌱 Spring Boot</b>. I thrive on <b>guiding</b> and <b>motivating</b> others to grow both personally and professionally. When I’m not coding, you’ll find me <b>exploring new cultures</b> and <b>traveling the world</b> 🌍, on a mission to visit a <b>new country every year</b> ✈️ — discovering fresh experiences and making memories. Life’s all about balance: <b>learning, leading, and living with passion!</b> 🔥
 </p>
 
-<h3 align="left" style="color:#444;">🤝 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aayushithani" target="_blank" rel="noopener" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/aayushithani" target="_blank" rel="noopener" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
 ###
-<h3 align="left">🚀 Languages and Tools:</h3>
+
+<h2 align="left">🚀 Languages and Tools:</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -49,6 +40,28 @@
 
 ###
 
+<h2 align="left" style="color:#444;">🤝 Connect with me:</h2>
+<p align="left">
+  <a href="https://linkedin.com/in/aayushithani" target="_blank" rel="noopener" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/aayushithani" target="_blank" rel="noopener" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+###
+
+<h2>📝 Get My Resume</h2>
+<p>
+  <a href="https://github.com/aayushithani/aayushithani/raw/main/resume/AayushiThani%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+  </a>
+</p>
+
+###
+
+<h2>📊 GitHub Stats</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aayushithani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushithani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
